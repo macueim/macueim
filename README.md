@@ -1,0 +1,11 @@
+
+- 👋 Hi, my name is **Macuei Mathiang**
+- 💻 I am currently training as a **Software Engineer**, specializing in full-stack development with Python and Java.
+- 👀 I’m interested in **back-end development, cybersecurity analysis and malware anlaysis**
+- ⚡ I’m currently completing workforce training at the **ULEM Workforce Learning Hub** in Boston
+- 💞️ I’m looking to collaborate on backend development, IT production, Security and development **(DevSecOPs)** projects, or any new technology solutions.
+- 📫 How to reach me: macueidit99@gmail.com or [Linkedin.com: Macuei Mathiang](https://www.linkedin.com/in/macuei/)
+- 😄 Pronouns: He, Him, His
+- 🌱 Fun facts: I enjoy reading **technical literature** and watching science fiction films
+- 🎓 **Education**: Holds a **Bachelor’s degree in Computer Science** and a **Master’s degree in Information Technology**  
+- 📍 **Location Preferences**: Open to **in-person or remote roles** in **New Hampshire (NH), Massachusetts (MA), Arizona (AZ), Texas (TX), or any other warm states within the United States**  
