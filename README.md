@@ -3,7 +3,7 @@
 - 💻 I am currently training as a **Software Engineer**, specializing in full-stack development with Python and Java.
 - 👀 I’m interested in **back-end development, cybersecurity analysis and malware anlaysis**
 - ⚡ I’m currently completing workforce training at the **ULEM Workforce Learning Hub** in Boston
-- 💞️ I’m looking to collaborate on backend development, IT production, Security and development **(DevSecOPs)** projects, or any new technology solutions.
+- 💞️ I’m looking to collaborate on backend development, IT development, Security and production **(DevSecOPs)** projects, or any new technology solutions.
 - 📫 How to reach me: macueidit99@gmail.com or [Linkedin.com: Macuei Mathiang](https://www.linkedin.com/in/macuei/)
 - 😄 Pronouns: He, Him, His
 - 🌱 Fun facts: I enjoy reading **technical literature** and watching science fiction films
