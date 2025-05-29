@@ -1,5 +1,5 @@
 
-- 👋 Hi, my name is **Macuei Mathiang**
+- 👋 Hi, my name is **Macuei Mathiang** and nickname is John.
 - 💻 I am currently training as a **Software Engineer**, specializing in full-stack development with Python and Java frameworks.
 - 👀 I’m interested in **back-end development, Cybersecurity Analysis, and Malware Analysis position.**
 - ⚡ I’m currently completing workforce training at the **ULEM Workforce Learning Hub** in Boston, MA
