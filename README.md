@@ -1,9 +1,9 @@
 
 - 👋 Hi, my name is **Macuei Mathiang** and nickname is **John**.
 - 💻 I am currently training as a **Software Engineer**, specializing in full-stack development with Python and Java frameworks.
-- 👀 I’m interested in **back-end development, Cybersecurity Analysis, and Malware Analysis position.**
-- ⚡ I’m currently completing workforce training at the **ULEM Workforce Learning Hub** in Boston, MA
-- 💞️ I’m looking to collaborate on backend development, IT Development, Security, and Production **(DevSecOPs)** projects, or any new technology solution.
+- 👀 I’m interested in **back-end development, Cybersecurity Analysis, and Malware Analysis positions.**
+- ⚡ I’ve completed full-stack development workforce training at the **ULEM Workforce Learning Hub** in Boston, MA
+- 💞️ I’m looking to collaborate on backend development, IT Development, Security, and Production **(DevSecOps)** projects, or any new technology solution.
 - 📫 How to reach me: macueidit@gmail.com or [Linkedin.com: Macuei Mathiang](https://www.linkedin.com/in/macuei/)
 - 😄 Pronouns: He, Him, His
 - 🌱 Fun facts: I enjoy reading **technical literature** and watching science fiction films
