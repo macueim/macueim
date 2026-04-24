@@ -8,7 +8,7 @@
 ### 💻 About Me
 
 - ✅ In 2025, I successfully completed a **6-month AI-Powered Software Engineering** program
-- 🎯 Specializing in **full-stack development** with C++, Java and Python
+- 🎯 Specializing in **full-stack development** with **C++, Java and Python**
 - 🔐 Interested in **back-end development, Cybersecurity Analysis, and Malware Analysis**
 - 📚 This intensive training was part of the **ULEM Workforce Learning Hub** in Boston, MA (2025 batch)
 
