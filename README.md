@@ -1,7 +1,7 @@
 
 ## 👋 Hi, I'm Macuei Mathiang Ring (John)
 
-> *AI-Powered Software Engineer | Computer Scientist | Information Technologiest | Cybersecurity Analyst*
+> **AI-Powered Software Engineer | Computer Scientist | Information Technologiest | Cybersecurity Analyst**
 
 ---
 
